@@ -23,6 +23,8 @@ Repository Link or https://github.com/bee-solve/booking-flight-api
 
 Emphasis: Push your Code to your Github repository and submit the link.
 
+## CRUD OPERATIONS
+
 ### To create a flight send a request to:
 > hostmachine/create-flight
 
